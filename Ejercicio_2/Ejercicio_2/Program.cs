@@ -1,0 +1,23 @@
+﻿class Program
+{
+    static void Main()
+    {
+        int[,] matriz = {
+            {1, 2, 3},
+            {4, 5, 6},
+            {7, 8, 9}
+        };
+
+        int sum = 0;
+
+        for (int i = 0; i < 3; i++)
+        {
+            for (int j = 0; j < 3; j++)
+            {
+                sum += matriz[i, j];
+            }
+        }
+
+        Console.WriteLine("La suma de todos los elementos de la matriz es " + sum);
+    }
+}
