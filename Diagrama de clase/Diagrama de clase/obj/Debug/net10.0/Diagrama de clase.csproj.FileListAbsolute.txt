@@ -1,0 +1,15 @@
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Diagrama de clase\Diagrama de clase\obj\Debug\net10.0\Diagrama de clase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Diagrama de clase\Diagrama de clase\obj\Debug\net10.0\Diagrama de clase.AssemblyInfoInputs.cache
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Diagrama de clase\Diagrama de clase\obj\Debug\net10.0\Diagrama de clase.AssemblyInfo.cs
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Diagrama de clase\Diagrama de clase\obj\Debug\net10.0\Diagrama de clase.csproj.CoreCompileInputs.cache
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Diagrama de clase\Diagrama de clase\obj\Debug\net10.0\Diagrama de clase.sourcelink.json
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Diagrama de clase\Diagrama de clase\bin\Debug\net10.0\Diagrama de clase.exe
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Diagrama de clase\Diagrama de clase\bin\Debug\net10.0\Diagrama de clase.deps.json
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Diagrama de clase\Diagrama de clase\bin\Debug\net10.0\Diagrama de clase.runtimeconfig.json
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Diagrama de clase\Diagrama de clase\bin\Debug\net10.0\Diagrama de clase.dll
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Diagrama de clase\Diagrama de clase\bin\Debug\net10.0\Diagrama de clase.pdb
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Diagrama de clase\Diagrama de clase\obj\Debug\net10.0\Diagrama de clase.dll
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Diagrama de clase\Diagrama de clase\obj\Debug\net10.0\refint\Diagrama de clase.dll
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Diagrama de clase\Diagrama de clase\obj\Debug\net10.0\Diagrama de clase.pdb
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Diagrama de clase\Diagrama de clase\obj\Debug\net10.0\Diagrama de clase.genruntimeconfig.cache
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Diagrama de clase\Diagrama de clase\obj\Debug\net10.0\ref\Diagrama de clase.dll

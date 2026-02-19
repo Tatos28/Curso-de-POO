@@ -1,0 +1,15 @@
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Sueldos de empleados\Sueldos de empleados\bin\Debug\net10.0\Sueldos de empleados.exe
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Sueldos de empleados\Sueldos de empleados\bin\Debug\net10.0\Sueldos de empleados.deps.json
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Sueldos de empleados\Sueldos de empleados\bin\Debug\net10.0\Sueldos de empleados.runtimeconfig.json
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Sueldos de empleados\Sueldos de empleados\bin\Debug\net10.0\Sueldos de empleados.dll
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Sueldos de empleados\Sueldos de empleados\bin\Debug\net10.0\Sueldos de empleados.pdb
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Sueldos de empleados\Sueldos de empleados\obj\Debug\net10.0\Sueldos de empleados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Sueldos de empleados\Sueldos de empleados\obj\Debug\net10.0\Sueldos de empleados.AssemblyInfoInputs.cache
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Sueldos de empleados\Sueldos de empleados\obj\Debug\net10.0\Sueldos de empleados.AssemblyInfo.cs
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Sueldos de empleados\Sueldos de empleados\obj\Debug\net10.0\Sueldos de empleados.csproj.CoreCompileInputs.cache
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Sueldos de empleados\Sueldos de empleados\obj\Debug\net10.0\Sueldos de empleados.sourcelink.json
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Sueldos de empleados\Sueldos de empleados\obj\Debug\net10.0\Sueldos de empleados.dll
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Sueldos de empleados\Sueldos de empleados\obj\Debug\net10.0\refint\Sueldos de empleados.dll
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Sueldos de empleados\Sueldos de empleados\obj\Debug\net10.0\Sueldos de empleados.pdb
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Sueldos de empleados\Sueldos de empleados\obj\Debug\net10.0\Sueldos de empleados.genruntimeconfig.cache
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Sueldos de empleados\Sueldos de empleados\obj\Debug\net10.0\ref\Sueldos de empleados.dll

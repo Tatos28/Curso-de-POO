@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sueldos de empleados")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ea18e0019463b152326e59c1d48e0e14a905ba3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dbe542823eb1d7b886069825c2b55e81d31fa238")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sueldos de empleados")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sueldos de empleados")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
