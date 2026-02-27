@@ -1,0 +1,15 @@
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Laboratorio2\Laboratorio2\obj\Debug\net10.0\Laboratorio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Laboratorio2\Laboratorio2\obj\Debug\net10.0\Laboratorio2.AssemblyInfoInputs.cache
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Laboratorio2\Laboratorio2\obj\Debug\net10.0\Laboratorio2.AssemblyInfo.cs
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Laboratorio2\Laboratorio2\obj\Debug\net10.0\Laboratorio2.csproj.CoreCompileInputs.cache
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Laboratorio2\Laboratorio2\obj\Debug\net10.0\Laboratorio2.sourcelink.json
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Laboratorio2\Laboratorio2\bin\Debug\net10.0\Laboratorio2.exe
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Laboratorio2\Laboratorio2\bin\Debug\net10.0\Laboratorio2.deps.json
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Laboratorio2\Laboratorio2\bin\Debug\net10.0\Laboratorio2.runtimeconfig.json
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Laboratorio2\Laboratorio2\bin\Debug\net10.0\Laboratorio2.dll
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Laboratorio2\Laboratorio2\bin\Debug\net10.0\Laboratorio2.pdb
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Laboratorio2\Laboratorio2\obj\Debug\net10.0\Laboratorio2.dll
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Laboratorio2\Laboratorio2\obj\Debug\net10.0\refint\Laboratorio2.dll
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Laboratorio2\Laboratorio2\obj\Debug\net10.0\Laboratorio2.pdb
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Laboratorio2\Laboratorio2\obj\Debug\net10.0\Laboratorio2.genruntimeconfig.cache
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Laboratorio2\Laboratorio2\obj\Debug\net10.0\ref\Laboratorio2.dll
