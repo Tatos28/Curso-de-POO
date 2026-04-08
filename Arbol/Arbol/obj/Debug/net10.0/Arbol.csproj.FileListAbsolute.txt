@@ -1,0 +1,15 @@
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Arbol\Arbol\obj\Debug\net10.0\Arbol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Arbol\Arbol\obj\Debug\net10.0\Arbol.AssemblyInfoInputs.cache
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Arbol\Arbol\obj\Debug\net10.0\Arbol.AssemblyInfo.cs
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Arbol\Arbol\obj\Debug\net10.0\Arbol.csproj.CoreCompileInputs.cache
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Arbol\Arbol\obj\Debug\net10.0\Arbol.sourcelink.json
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Arbol\Arbol\bin\Debug\net10.0\Arbol.exe
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Arbol\Arbol\bin\Debug\net10.0\Arbol.deps.json
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Arbol\Arbol\bin\Debug\net10.0\Arbol.runtimeconfig.json
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Arbol\Arbol\bin\Debug\net10.0\Arbol.dll
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Arbol\Arbol\bin\Debug\net10.0\Arbol.pdb
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Arbol\Arbol\obj\Debug\net10.0\Arbol.dll
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Arbol\Arbol\obj\Debug\net10.0\refint\Arbol.dll
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Arbol\Arbol\obj\Debug\net10.0\Arbol.pdb
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Arbol\Arbol\obj\Debug\net10.0\Arbol.genruntimeconfig.cache
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Arbol\Arbol\obj\Debug\net10.0\ref\Arbol.dll

@@ -1,0 +1,15 @@
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Profe\Profe\bin\Debug\net10.0\Profe.exe
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Profe\Profe\bin\Debug\net10.0\Profe.deps.json
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Profe\Profe\bin\Debug\net10.0\Profe.runtimeconfig.json
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Profe\Profe\bin\Debug\net10.0\Profe.dll
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Profe\Profe\bin\Debug\net10.0\Profe.pdb
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Profe\Profe\obj\Debug\net10.0\Profe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Profe\Profe\obj\Debug\net10.0\Profe.AssemblyInfoInputs.cache
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Profe\Profe\obj\Debug\net10.0\Profe.AssemblyInfo.cs
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Profe\Profe\obj\Debug\net10.0\Profe.csproj.CoreCompileInputs.cache
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Profe\Profe\obj\Debug\net10.0\Profe.sourcelink.json
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Profe\Profe\obj\Debug\net10.0\Profe.dll
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Profe\Profe\obj\Debug\net10.0\refint\Profe.dll
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Profe\Profe\obj\Debug\net10.0\Profe.pdb
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Profe\Profe\obj\Debug\net10.0\Profe.genruntimeconfig.cache
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Profe\Profe\obj\Debug\net10.0\ref\Profe.dll

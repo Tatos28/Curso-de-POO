@@ -1,0 +1,15 @@
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Ejercicio\Ejercicio\bin\Debug\net10.0\Ejercicio.exe
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Ejercicio\Ejercicio\bin\Debug\net10.0\Ejercicio.deps.json
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Ejercicio\Ejercicio\bin\Debug\net10.0\Ejercicio.runtimeconfig.json
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Ejercicio\Ejercicio\bin\Debug\net10.0\Ejercicio.dll
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Ejercicio\Ejercicio\bin\Debug\net10.0\Ejercicio.pdb
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Ejercicio\Ejercicio\obj\Debug\net10.0\Ejercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Ejercicio\Ejercicio\obj\Debug\net10.0\Ejercicio.AssemblyInfoInputs.cache
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Ejercicio\Ejercicio\obj\Debug\net10.0\Ejercicio.AssemblyInfo.cs
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Ejercicio\Ejercicio\obj\Debug\net10.0\Ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Ejercicio\Ejercicio\obj\Debug\net10.0\Ejercicio.sourcelink.json
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Ejercicio\Ejercicio\obj\Debug\net10.0\Ejercicio.dll
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Ejercicio\Ejercicio\obj\Debug\net10.0\refint\Ejercicio.dll
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Ejercicio\Ejercicio\obj\Debug\net10.0\Ejercicio.pdb
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Ejercicio\Ejercicio\obj\Debug\net10.0\Ejercicio.genruntimeconfig.cache
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Ejercicio\Ejercicio\obj\Debug\net10.0\ref\Ejercicio.dll

@@ -1,0 +1,15 @@
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\LieDetection\LieDetection\bin\Debug\net10.0\LieDetection.exe
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\LieDetection\LieDetection\bin\Debug\net10.0\LieDetection.deps.json
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\LieDetection\LieDetection\bin\Debug\net10.0\LieDetection.runtimeconfig.json
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\LieDetection\LieDetection\bin\Debug\net10.0\LieDetection.dll
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\LieDetection\LieDetection\bin\Debug\net10.0\LieDetection.pdb
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\LieDetection\LieDetection\obj\Debug\net10.0\LieDetection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\LieDetection\LieDetection\obj\Debug\net10.0\LieDetection.AssemblyInfoInputs.cache
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\LieDetection\LieDetection\obj\Debug\net10.0\LieDetection.AssemblyInfo.cs
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\LieDetection\LieDetection\obj\Debug\net10.0\LieDetection.csproj.CoreCompileInputs.cache
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\LieDetection\LieDetection\obj\Debug\net10.0\LieDetection.sourcelink.json
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\LieDetection\LieDetection\obj\Debug\net10.0\LieDetection.dll
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\LieDetection\LieDetection\obj\Debug\net10.0\refint\LieDetection.dll
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\LieDetection\LieDetection\obj\Debug\net10.0\LieDetection.pdb
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\LieDetection\LieDetection\obj\Debug\net10.0\LieDetection.genruntimeconfig.cache
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\LieDetection\LieDetection\obj\Debug\net10.0\ref\LieDetection.dll

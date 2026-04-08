@@ -1,0 +1,15 @@
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Dron\Dron\obj\Debug\net10.0\Dron.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Dron\Dron\obj\Debug\net10.0\Dron.AssemblyInfoInputs.cache
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Dron\Dron\obj\Debug\net10.0\Dron.AssemblyInfo.cs
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Dron\Dron\obj\Debug\net10.0\Dron.csproj.CoreCompileInputs.cache
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Dron\Dron\obj\Debug\net10.0\Dron.sourcelink.json
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Dron\Dron\bin\Debug\net10.0\Dron.exe
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Dron\Dron\bin\Debug\net10.0\Dron.deps.json
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Dron\Dron\bin\Debug\net10.0\Dron.runtimeconfig.json
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Dron\Dron\bin\Debug\net10.0\Dron.dll
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Dron\Dron\bin\Debug\net10.0\Dron.pdb
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Dron\Dron\obj\Debug\net10.0\Dron.dll
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Dron\Dron\obj\Debug\net10.0\refint\Dron.dll
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Dron\Dron\obj\Debug\net10.0\Dron.pdb
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Dron\Dron\obj\Debug\net10.0\Dron.genruntimeconfig.cache
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Dron\Dron\obj\Debug\net10.0\ref\Dron.dll
