@@ -1,0 +1,15 @@
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Bandas\Bandas\bin\Debug\net10.0\Bandas.exe
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Bandas\Bandas\bin\Debug\net10.0\Bandas.deps.json
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Bandas\Bandas\bin\Debug\net10.0\Bandas.runtimeconfig.json
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Bandas\Bandas\bin\Debug\net10.0\Bandas.dll
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Bandas\Bandas\bin\Debug\net10.0\Bandas.pdb
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Bandas\Bandas\obj\Debug\net10.0\Bandas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Bandas\Bandas\obj\Debug\net10.0\Bandas.AssemblyInfoInputs.cache
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Bandas\Bandas\obj\Debug\net10.0\Bandas.AssemblyInfo.cs
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Bandas\Bandas\obj\Debug\net10.0\Bandas.csproj.CoreCompileInputs.cache
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Bandas\Bandas\obj\Debug\net10.0\Bandas.sourcelink.json
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Bandas\Bandas\obj\Debug\net10.0\Bandas.dll
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Bandas\Bandas\obj\Debug\net10.0\refint\Bandas.dll
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Bandas\Bandas\obj\Debug\net10.0\Bandas.pdb
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Bandas\Bandas\obj\Debug\net10.0\Bandas.genruntimeconfig.cache
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Bandas\Bandas\obj\Debug\net10.0\ref\Bandas.dll

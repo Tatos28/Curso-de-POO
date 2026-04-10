@@ -1,0 +1,15 @@
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Survivors\Survivors\bin\Debug\net10.0\Survivors.exe
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Survivors\Survivors\bin\Debug\net10.0\Survivors.deps.json
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Survivors\Survivors\bin\Debug\net10.0\Survivors.runtimeconfig.json
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Survivors\Survivors\bin\Debug\net10.0\Survivors.dll
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Survivors\Survivors\bin\Debug\net10.0\Survivors.pdb
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Survivors\Survivors\obj\Debug\net10.0\Survivors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Survivors\Survivors\obj\Debug\net10.0\Survivors.AssemblyInfoInputs.cache
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Survivors\Survivors\obj\Debug\net10.0\Survivors.AssemblyInfo.cs
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Survivors\Survivors\obj\Debug\net10.0\Survivors.csproj.CoreCompileInputs.cache
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Survivors\Survivors\obj\Debug\net10.0\Survivors.sourcelink.json
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Survivors\Survivors\obj\Debug\net10.0\Survivors.dll
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Survivors\Survivors\obj\Debug\net10.0\refint\Survivors.dll
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Survivors\Survivors\obj\Debug\net10.0\Survivors.pdb
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Survivors\Survivors\obj\Debug\net10.0\Survivors.genruntimeconfig.cache
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Survivors\Survivors\obj\Debug\net10.0\ref\Survivors.dll
