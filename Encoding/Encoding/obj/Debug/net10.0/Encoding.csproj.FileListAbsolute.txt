@@ -1,0 +1,15 @@
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Encoding\Encoding\obj\Debug\net10.0\Encoding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Encoding\Encoding\obj\Debug\net10.0\Encoding.AssemblyInfoInputs.cache
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Encoding\Encoding\obj\Debug\net10.0\Encoding.AssemblyInfo.cs
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Encoding\Encoding\obj\Debug\net10.0\Encoding.csproj.CoreCompileInputs.cache
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Encoding\Encoding\obj\Debug\net10.0\Encoding.sourcelink.json
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Encoding\Encoding\bin\Debug\net10.0\Encoding.exe
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Encoding\Encoding\bin\Debug\net10.0\Encoding.deps.json
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Encoding\Encoding\bin\Debug\net10.0\Encoding.runtimeconfig.json
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Encoding\Encoding\bin\Debug\net10.0\Encoding.dll
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Encoding\Encoding\bin\Debug\net10.0\Encoding.pdb
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Encoding\Encoding\obj\Debug\net10.0\Encoding.dll
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Encoding\Encoding\obj\Debug\net10.0\refint\Encoding.dll
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Encoding\Encoding\obj\Debug\net10.0\Encoding.pdb
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Encoding\Encoding\obj\Debug\net10.0\Encoding.genruntimeconfig.cache
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\Encoding\Encoding\obj\Debug\net10.0\ref\Encoding.dll

@@ -1,0 +1,15 @@
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\EjercicioTextos\EjercicioTextos\bin\Debug\net10.0\EjercicioTextos.exe
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\EjercicioTextos\EjercicioTextos\bin\Debug\net10.0\EjercicioTextos.deps.json
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\EjercicioTextos\EjercicioTextos\bin\Debug\net10.0\EjercicioTextos.runtimeconfig.json
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\EjercicioTextos\EjercicioTextos\bin\Debug\net10.0\EjercicioTextos.dll
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\EjercicioTextos\EjercicioTextos\bin\Debug\net10.0\EjercicioTextos.pdb
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\EjercicioTextos\EjercicioTextos\obj\Debug\net10.0\EjercicioTextos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\EjercicioTextos\EjercicioTextos\obj\Debug\net10.0\EjercicioTextos.AssemblyInfoInputs.cache
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\EjercicioTextos\EjercicioTextos\obj\Debug\net10.0\EjercicioTextos.AssemblyInfo.cs
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\EjercicioTextos\EjercicioTextos\obj\Debug\net10.0\EjercicioTextos.csproj.CoreCompileInputs.cache
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\EjercicioTextos\EjercicioTextos\obj\Debug\net10.0\EjercicioTextos.sourcelink.json
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\EjercicioTextos\EjercicioTextos\obj\Debug\net10.0\EjercicioTextos.dll
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\EjercicioTextos\EjercicioTextos\obj\Debug\net10.0\refint\EjercicioTextos.dll
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\EjercicioTextos\EjercicioTextos\obj\Debug\net10.0\EjercicioTextos.pdb
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\EjercicioTextos\EjercicioTextos\obj\Debug\net10.0\EjercicioTextos.genruntimeconfig.cache
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\EjercicioTextos\EjercicioTextos\obj\Debug\net10.0\ref\EjercicioTextos.dll

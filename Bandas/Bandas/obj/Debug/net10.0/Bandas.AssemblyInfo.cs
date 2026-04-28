@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bandas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4876bdde4e92fd516ed737b4301dafb8a9297421")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+293036e38ba545fdfb6dad857fa9377d4cbe32c0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bandas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bandas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

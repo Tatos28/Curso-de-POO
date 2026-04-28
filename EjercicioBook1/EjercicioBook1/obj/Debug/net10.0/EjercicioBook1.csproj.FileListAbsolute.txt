@@ -1,0 +1,15 @@
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\EjercicioBook1\EjercicioBook1\obj\Debug\net10.0\EjercicioBook1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\EjercicioBook1\EjercicioBook1\obj\Debug\net10.0\EjercicioBook1.AssemblyInfoInputs.cache
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\EjercicioBook1\EjercicioBook1\obj\Debug\net10.0\EjercicioBook1.AssemblyInfo.cs
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\EjercicioBook1\EjercicioBook1\obj\Debug\net10.0\EjercicioBook1.csproj.CoreCompileInputs.cache
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\EjercicioBook1\EjercicioBook1\obj\Debug\net10.0\EjercicioBook1.sourcelink.json
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\EjercicioBook1\EjercicioBook1\bin\Debug\net10.0\EjercicioBook1.exe
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\EjercicioBook1\EjercicioBook1\bin\Debug\net10.0\EjercicioBook1.deps.json
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\EjercicioBook1\EjercicioBook1\bin\Debug\net10.0\EjercicioBook1.runtimeconfig.json
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\EjercicioBook1\EjercicioBook1\bin\Debug\net10.0\EjercicioBook1.dll
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\EjercicioBook1\EjercicioBook1\bin\Debug\net10.0\EjercicioBook1.pdb
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\EjercicioBook1\EjercicioBook1\obj\Debug\net10.0\EjercicioBook1.dll
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\EjercicioBook1\EjercicioBook1\obj\Debug\net10.0\refint\EjercicioBook1.dll
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\EjercicioBook1\EjercicioBook1\obj\Debug\net10.0\EjercicioBook1.pdb
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\EjercicioBook1\EjercicioBook1\obj\Debug\net10.0\EjercicioBook1.genruntimeconfig.cache
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\EjercicioBook1\EjercicioBook1\obj\Debug\net10.0\ref\EjercicioBook1.dll

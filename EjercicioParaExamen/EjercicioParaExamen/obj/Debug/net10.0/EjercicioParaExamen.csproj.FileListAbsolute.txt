@@ -1,0 +1,15 @@
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\EjercicioParaExamen\EjercicioParaExamen\obj\Debug\net10.0\EjercicioParaExamen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\EjercicioParaExamen\EjercicioParaExamen\obj\Debug\net10.0\EjercicioParaExamen.AssemblyInfoInputs.cache
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\EjercicioParaExamen\EjercicioParaExamen\obj\Debug\net10.0\EjercicioParaExamen.AssemblyInfo.cs
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\EjercicioParaExamen\EjercicioParaExamen\obj\Debug\net10.0\EjercicioParaExamen.csproj.CoreCompileInputs.cache
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\EjercicioParaExamen\EjercicioParaExamen\obj\Debug\net10.0\EjercicioParaExamen.sourcelink.json
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\EjercicioParaExamen\EjercicioParaExamen\bin\Debug\net10.0\EjercicioParaExamen.exe
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\EjercicioParaExamen\EjercicioParaExamen\bin\Debug\net10.0\EjercicioParaExamen.deps.json
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\EjercicioParaExamen\EjercicioParaExamen\bin\Debug\net10.0\EjercicioParaExamen.runtimeconfig.json
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\EjercicioParaExamen\EjercicioParaExamen\bin\Debug\net10.0\EjercicioParaExamen.dll
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\EjercicioParaExamen\EjercicioParaExamen\bin\Debug\net10.0\EjercicioParaExamen.pdb
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\EjercicioParaExamen\EjercicioParaExamen\obj\Debug\net10.0\EjercicioParaExamen.dll
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\EjercicioParaExamen\EjercicioParaExamen\obj\Debug\net10.0\refint\EjercicioParaExamen.dll
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\EjercicioParaExamen\EjercicioParaExamen\obj\Debug\net10.0\EjercicioParaExamen.pdb
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\EjercicioParaExamen\EjercicioParaExamen\obj\Debug\net10.0\EjercicioParaExamen.genruntimeconfig.cache
+C:\Users\santi\OneDrive\Documentos\Curso-de-POO\EjercicioParaExamen\EjercicioParaExamen\obj\Debug\net10.0\ref\EjercicioParaExamen.dll
